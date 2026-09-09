@@ -584,7 +584,7 @@ select:focus {
 
 .preview-empty {
   display: grid;
-  min-height: 220px;
+  min-height: 100px;
   place-items: center;
   padding: 2rem;
   color: var(--shade-100);
